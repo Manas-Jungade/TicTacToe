@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="todo">TODO</string>
+    <string name="icon">TODO</string>
+    <string name="player_a">Player-A</string>
+    <string name="powered_by_mj">Powered By - MJ</string>
+</resources>
